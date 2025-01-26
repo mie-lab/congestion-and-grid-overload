@@ -1,0 +1,2 @@
+arrival,departure,session_id,station_id,requested_energy,estimated_departure,battery_capacity,battery_current_charge,battery_init_charge,battery_max_power,battery_current_charging_power,energy_delivered
+65,125,993220225432,CA-308,17.15,125,37.15,20.554666666666666,20,6.656,6.656,0.5546666666666666

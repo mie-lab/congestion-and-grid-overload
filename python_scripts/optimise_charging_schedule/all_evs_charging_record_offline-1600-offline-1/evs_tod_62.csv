@@ -1,0 +1,2 @@
+arrival,departure,session_id,station_id,requested_energy,estimated_departure,battery_capacity,battery_current_charge,battery_init_charge,battery_max_power,battery_current_charging_power,energy_delivered
+62,158,543404941790,AB-1,30.0,158,60,30.000000140872185,30.0,16.6,1.690466240221053e-06,1.4087218668508774e-07
