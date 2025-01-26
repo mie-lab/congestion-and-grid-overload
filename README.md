@@ -1,6 +1,4 @@
-Here's the updated README.md with detailed setup instructions, including crucial information about cloning and modifying functions within the `acnportal` and `adacharge` packages:
 
-[//]: # (```markdown)
 # Congestion and Grid Overload
 
 This repository contains the code accompanying our paper "Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures". The codebase includes a Cell Transmission Model (CTM) implemented in Fortran and a Python pipeline that interfaces with the ACM simulator.
