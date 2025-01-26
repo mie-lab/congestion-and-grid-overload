@@ -11,8 +11,8 @@ This repository contains the code accompanying our paper "Quantifying the impact
 - **Network Data**: Collected from OpenStreetMap (OSM), facilitating the realistic simulation of traffic scenarios.
 
 
-If you find the code useful or refer to the concepts presented in the paper, please cite our work. The code developed for this study is publicly available on GitHub at [Congestion and Grid Overload](https://github.com/mie-lab/congestion-and-grid-overload).
 
+If you find the code useful or refer to the concepts presented in the paper, please cite our work. 
 ## Installation and Configuration
 
 1. **Clone the Repository**:
