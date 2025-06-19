@@ -1,7 +1,7 @@
 
 # Congestion and Grid Overload
 
-This repository contains the code accompanying our paper "Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures". The codebase includes a Cell Transmission Model (CTM) implemented in Fortran and a Python pipeline that interfaces with the ACM simulator.
+This repository contains the code accompanying our paper "**Quantifying the impacts of non-recurrent congestion on workplace EV charging infrastructures**",. The codebase includes a Cell Transmission Model (CTM) implemented in Fortran and a Python pipeline that interfaces with the ACM simulator.
 
 ## Repository Contents
 
@@ -34,10 +34,9 @@ If you find the code useful or refer to the concepts presented in the paper, ple
    pip install git+https://github.com/zach401/acnportal.git@3c76892d78ae7cbdca9017f8e2a4e3114198deba
    pip install git+https://github.com/caltech-netlab/adacharge.git@b7d5fddb25e842333fc2b404d32dd3477ca47297
    ```
-We need to modify one function inside the acnportal to extract more logging information during the simulation. Please follow the instructions in README_acnportal_modification.md to install the acnportal properly.
+We need to modify one function inside the acnportal to extract more logging information during the simulation. Please follow the instructions in `README_acnportal_modification.md` to install the acnportal properly.
 
 
-```
 
 ## Usage
 
